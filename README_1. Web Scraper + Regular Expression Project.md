@@ -18,7 +18,7 @@ The purpose of this project is to:
 The goal is to scrape the text of Martin Luther King Jr.'s famous "I Have a Dream" speech from a webpage, clean the text by removing unnecessary characters and formatting, and analyze the frequency of words used in the speech. This analysis can help understand the emphasis and key themes of the speech.
 
 ## Files in this Repository
-- [Python Script for Web Scraper + Regular Expression Project](https://github.com/ttfwang/web_scraper-regular_expression_project/blob/main/Web%20Scraper%20%2B%20Regular%20Expression%20Project.ipynb)
+- [Python Script for Web Scraper + Regular Expression Project](https://github.com/ttfwang/PortfolioProjects_Python/blob/main/1.%20Web%20Scraper%20%2B%20Regular%20Expression%20Project.ipynb)
 
 ## Process
 
